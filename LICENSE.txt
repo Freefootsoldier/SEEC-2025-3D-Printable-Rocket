@@ -1,19 +1,18 @@
-# Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
-To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)  
-or review the full legal text at [https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
+To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
 ---
 
-## Summary of Terms
+Summary of Terms
 
 You are free to:
 
-- **Share** — copy and redistribute the material in any medium or format  
-- **Adapt** — remix, transform, and build upon the material  
-- **As long as it's non-commercial** and proper credit is given.
+- Share — copy and redistribute the material in any medium or format  
+- Adapt — remix, transform, and build upon the material  
+- As long as it's non-commercial** and proper credit is given.
 
 You may not:
 
