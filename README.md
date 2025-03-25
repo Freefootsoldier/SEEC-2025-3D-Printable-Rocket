@@ -24,7 +24,7 @@ This model was created as part of a virtual presentation for SEEC 2025, hosted b
 🔗 Resources & References
 International Aerospace Academy:
 https://internationalaerospaceacademy.org/
-Facebook page
+https://www.facebook.com/profile.php?id=61566432977952
 
 Space Explorers Educators Conference (SEEC):
 https://spacecenter.org/education-programs/educator-resources/seec/
