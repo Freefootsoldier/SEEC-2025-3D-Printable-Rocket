@@ -1,5 +1,5 @@
 # SEEC-2025-3D-Printable-Rocket
-An educational 3D-printable model rocket inspired by the capsule separation of Blue Origin’s New Shepard. Designed for classroom engagement, featuring SolidWorks files, STLs, and a full setup guide.1`
+An educational 3D-printable model rocket inspired by the capsule separation of Blue Origin’s New Shepard. Designed for classroom engagement, featuring SolidWorks files, STLs, and a full setup guide.
 Educational Model Rocket – Blue H2O SEEC 2025 Project
 This repository contains all the design files and documentation for a subscale model rocket created for the Blue H2O Mission, part of the International Aerospace Academy’s Orbital Learning Alliance initiative presented at SEEC 2025.
 
